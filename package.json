@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "name": "pythondata",
+  "version": "1.0.1",
+  "description": "Programming Language Docs API",
+  "main": "index.js",
+  "scripts": {
+    "test": "try"
+  },
+  "author": "SA Safin Ali",
+  "license": "ISC"
+}

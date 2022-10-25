@@ -1,0 +1,61 @@
+[{
+    "name": "Python",
+    "id": 0,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+    "data": [{
+        "topicTitle": "Python Intro",
+        "categoryId": 1,
+        "shortDes": "",
+        "description": ["Python can be used on a server to create web applications", "Python can be used alongside software to create workflows", "Python can connect to database systems. It can also read and modify files", "Python can be used to handle big data and perform complex mathematics", "Python can be used for rapid prototyping, or for production-ready software development", "Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc)"],
+        "syntax": null
+    }, {
+        "topicTitle": "Python Variable",
+        "categoryId": 2,
+        "shortDes": "",
+        "description": ["Variables are containers for storing data values", "A variable is created the moment you first assign a value to it", "Variables do not need to be declared with any particular type, and can even change type after they have been set", "If you want to specify the data type of a variable, this can be done with casting", "String variables can be declared either by using single or double quotes", "Variable names are case-sensitive"],
+        "syntax": null
+    }, {
+        "topicTitle": "Python Data Types",
+        "categoryId": 3,
+        "shortDes": ["In programming, data type is an important concept", "Variables can store data of different types, and different types can do different things", "Python has the following data types built-in by default, in these categories"],
+        "description": ["Text Type", "Numeric Types", "Sequence Types", "Mapping Type", "Set Types", "Boolean Type", "Binary Types", "None Type"],
+        "syntax": null
+    }, {
+        "topicTitle": "Python If ... Else",
+        "categoryId": 4,
+        "shortDes": ["Python supports the usual logical conditions from mathematics", "These conditions can be used in several ways, most commonly in \"if statements\" and loops"],
+        "description": ["Equals", "Not Equals", "Less than", "Less than or equal to", "Greater than", "Greater than or equal to"],
+        "syntax": null
+    }, {
+        "topicTitle": "Python Functions",
+        "shortDes": null,
+        "description": ["A function is a block of code which only runs when it is called", "ou can pass data, known as parameters, into a function", "A function can return data as a result", "The terms parameter and argument can be used for the same thing: information that are passed into a function"],
+        "syntax": null
+    }, {
+        "topicTitle": "Python Classes/Objects",
+        "categoryId": 6,
+        "shortDes": null,
+        "description": ["Python is an object oriented programming language", "Almost everything in Python is an object, with its properties and methods", "A Class is like an object constructor, or a \"blueprint\" for creating objects", "To understand the meaning of classes we have to understand the built-in __init__() function", "All classes have a function called __init__(), which is always executed when the class is being initiated"],
+        "syntax": null
+    }]
+}, {
+    "name": "Java",
+    "id": 1,
+    "logo": "https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png",
+    "data": []
+}, {
+    "name": "C",
+    "id": 2,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png",
+    "data": []
+}, {
+    "name": "JavaScript",
+    "id": 3,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
+    "data": []
+}, {
+    "name": "PHP",
+    "id": 4,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
+    "data": []
+}]
