@@ -1,6 +1,10 @@
 [{
     "name": "Python",
+    "seo": "Guido van Rossum",
+    "realese": 1991,
+    "seoImage": "https://avatars.githubusercontent.com/u/2894642?v=4",
     "id": 0,
+    "summary" : "Python can be regarded as the future of programming languages. As per the latest statistics, Python is the main coding language for around 80% of developers. The presence of extensive libraries in Python facilitates artificial intelligence, data science, and machine learning processes. Currently, Python is trending and can be regarded as the king of programming languages. It is also an absolutely interesting language for beginners and at Geeksforgeeks we have curated a special Python Programming Foundation -Self-Paced course where one can learn all the basics in one place. So learning this programming language in 2022 promises you success and growth.",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
     "data": [{
         "topicTitle": "Python Intro",
@@ -40,22 +44,38 @@
     }]
 }, {
     "name": "Java",
+    "seo": "James Gosling",
+    "realese": 1995,
+    "seoImage": "https://i.pinimg.com/736x/9f/5a/9f/9f5a9f38821668cee8a6079aeb7b0994.jpg",
     "id": 1,
-    "logo": "https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png",
+    "summary" : "Java is one of the most powerful programming languages that is currently used in more than 3 billion devices. Java is currently one of the most trending technology. It is used in desktop applications, mobile applications, web development, Artificial intelligence, cloud applications, and many more. This language gives you exposure to many things and you just need to build a strong foundation with Geeksforgeeks Java Programming Foundation – Self-Paced course. So learning and acing in this technology offers insanely high salaries, amazing growth opportunities, and global recognition",
+    "logo": "https://assets.website-files.com/61f7e03934c23c1dcc9c3cd4/622b30ac945c52552ee965e8_pngwing.com%20(1).png",
     "data": []
 }, {
-    "name": "C",
+    "name": "C++",
+    "seo": "Bjarne Stroustrup",
+    "realese": 1995,
+    "seoImage": "https://www.opensourceforu.com/wp-content/uploads/2017/06/1363-HGE-28F-141119_MS_Enviro_Bjarne_Straustroup_055-RGB-2.jpg",
     "id": 2,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png",
+    "summary" : "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms. C++ is fun and easy to learn!",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
     "data": []
 }, {
     "name": "JavaScript",
+    "seo": "Brendan Eich",
+    "realese": 1995,
+    "seoImage": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg",
     "id": 3,
+    "summary" : "JavaScript is one of the world’s most popular programming languages on the web. As per the survey, more than 97 percent of the websites use JavaScript on the client-side of the webpage.",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
     "data": []
 }, {
     "name": "PHP",
+    "seo": "Rasmus Lerdorf",
+    "realese": 1995,
+    "seoImage": "https://asperbrothers.com/wp-content/uploads/2021/05/Rasmus-Lerdorf-PHP-300x300.jpg",
     "id": 4,
+    "summary" : "PHP is one of the general-purpose scripting languages that will continue to hold its importance in the upcoming years. It is among the first server-side language that can be embedded with HTML to add functionality to web pages. Due to the increasing online trend, PHP developers are in high demand.It is powerful enough to be at the core of the biggest blogging system on the web (WordPress)! It is deep enough to run large social networks! It is also easy enough to be a beginner's first server side language!",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
     "data": []
 }]
