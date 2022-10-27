@@ -3,7 +3,9 @@ const cors = require('cors');
 
 const pythonDocsAPI = express();
 
-const PGlangData = require('./pythonAPIData.json')
+const PGlangData = require('./pythonAPIData.json');
+
+const questionsData = require('./questionsAndAnswer.json')
 
 const port = process.env.PORT || 5000;
 
@@ -35,7 +37,11 @@ pythonDocsAPI.get('/:langname/:subtitle',(req,res)=>{
     res.send(getSingleData)
 })
 
+// get questions array of object data
 
+pythonDocsAPI.get('/questions/ph/sa',(req,res)=>{
+    res.send(questionsData);
+})
 
 pythonDocsAPI.listen(port,()=>{
     console.log('This Server Is Running')
